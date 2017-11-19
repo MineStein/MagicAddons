@@ -1,0 +1,10 @@
+name: MagicAddons
+version: 1.0.0
+main: com.aurelia_network.magicaddons.Main
+
+depend: [Magic]
+softdepend: [LightAPI]
+
+commands:
+  cc:
+    description: Check your CC balance.
